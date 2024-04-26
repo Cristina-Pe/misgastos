@@ -1,0 +1,14 @@
+@import '~bootstrap/scss/bootstrap';
+
+.bg-rojo { background-color: red; }
+.bg-azul { background-color: blue; }
+.bg-verde { background-color: green; }
+.bg-amarillo { background-color: yellow; }
+.bg-naranja { background-color: orange; }
+.bg-morado { background-color: purple; }
+.bg-rosa { background-color: pink; }
+.bg-verde-claro { background-color: lightgreen; } /* "Verde claro" puede ser lightgreen */
+.bg-cian { background-color: cyan; }
+.bg-lima { background-color: lime; }
+.bg-marrón { background-color: brown; }
+.bg-gris { background-color: gray; }
